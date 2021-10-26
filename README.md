@@ -1,2 +1,3 @@
-# Personal-Website
-The repository for my personal website.
+# utcs-public-html
+
+This repo hosts the source code for my student website at: https://cs.utexas.edu/~csanders
