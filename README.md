@@ -1,3 +1,3 @@
-# utcs-public-html
+# Public Html File for my Webpage
 
-This repo hosts the source code for my student website at: https://cs.utexas.edu/~csanders
+This repository hosts the source code for my website at: https://cs.utexas.edu/~csanders
